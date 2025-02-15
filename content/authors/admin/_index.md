@@ -33,12 +33,12 @@ profiles:
   - icon: at-symbol
     url: 'mailto:mailtosinghtarun@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+  # - icon: brands/github
+  #   url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/tarun-singh-656a2736/
   # - icon: academicons/google-scholar
@@ -52,12 +52,16 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Fluid Mechanics
+    institution: Uiversity of Poitiers
+    date_start: 2020-12-01
+    date_end: 2024-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis title: "Active flow control using neuroevolution guided deep reinforcement learning. Supervised by [Dr Laurent Cordier](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Conference and workshop presentations:
+    ▷ 1st ERCOFTAC workshop on Machine Learning for Fluid Dynamics(ML4Fluids). Sorbonne University,Paris(03/2024).
+    ▷ 3rd international workshop on Artificial Intelligence and Augmented Engineering (AIAE’23). Pascal institute, University of Paris-Saclay (12/2023).
+    ▷ 14th ERCOFTAC symposium on Engineering, Turbulence Modelling and Measurements (ETMM14). Barcelona, Spain (09/2023).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -144,9 +148,9 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: Hindi
+    percent: 100
+  - name: French
     percent: 25
 
 # Awards.
@@ -183,4 +187,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Recent PhD graduate in Aerodynamics and Machine Learning. Proficient in deep learning, reinforcement learning, and optimization techniques, with expertise in active flow control and computational fluid dynamics (CFD). Actively seeking challenging research opportunities to solve complex engineering challenges through interdisciplinary expertise, collaboration with diverse teams, and continuous learning.
