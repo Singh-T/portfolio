@@ -58,10 +58,6 @@ education:
     date_end: 2024-12-31
     summary: |
       Thesis title: "Active flow control using neuroevolution guided deep reinforcement learning. Supervised by [Dr Laurent Cordier](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-      Conference and workshop presentations:
-    ▷ 1st ERCOFTAC workshop on Machine Learning for Fluid Dynamics(ML4Fluids). Sorbonne University,Paris(03/2024).
-    ▷ 3rd international workshop on Artificial Intelligence and Augmented Engineering (AIAE’23). Pascal institute, University of Paris-Saclay (12/2023).
-    ▷ 14th ERCOFTAC symposium on Engineering, Turbulence Modelling and Measurements (ETMM14). Barcelona, Spain (09/2023).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
