@@ -47,9 +47,9 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Fluid Dynamics (CFD)
+  - Reinforcement learning
+  - Deep Learning
 
 education:
   - area: PhD Fluid Mechanics
@@ -84,19 +84,31 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Doctoral student
+    company_name: Institut Pprime - CNRS
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2020-12-01
+    date_end: '2024-12-31'
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Systems Engineer
+    company_name: IBM
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  
+  - position: Associate Systems Engineer
+    company_name: IBM
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
@@ -132,7 +144,7 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Graaphic design
         description: ''
         percent: 100
         icon: cat
