@@ -47,8 +47,9 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Computational Fluid Dynamics (CFD)
-  - Reinforcement learning
+  - Computational Fluid Dynamics
+  - Active Flow Control
+  - Reinforcement Learning
   - Deep Learning
 
 education:
