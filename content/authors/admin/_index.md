@@ -54,7 +54,7 @@ interests:
 
 education:
   - area: PhD Fluid Mechanics
-    institution: Uiversity of Poitiers
+    institution: Uiversity of Poitiers, France
     date_start: 2020-12-01
     date_end: 2024-12-31
     summary: |
@@ -62,7 +62,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MSc Computational Fluid Dynamics (CFD)
+  - area: MSc Computational Fluid Dynamics
     institution: Cranfield University, England
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -88,14 +88,15 @@ work:
   - position: Doctoral student
     company_name: Institut Pprime - CNRS
     company_url: ''
-    company_logo: ''
+    company_logo: 'Logo_CNRS.png'
     date_start: 2020-12-01
     date_end: '2024-12-31'
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Thesis: "Active flow conntrol using neuroevolution guided deep reinforcement learning".
+      - PhD advisor: Dr Laurent Cordier, Research Director (CNRS)
+      - Conference and workshop presentations:
+        - {{< math >}}$1^{st}${{< /math >}} ERCOFTAC workshop on Machine Learning for Fluid Dynamics (ML4Fluids). Sorbonne University, Paris (03/2024).
+
   - position: Systems Engineer
     company_name: IBM
     company_url: ''
@@ -196,4 +197,5 @@ awards:
 
 ## About Me
 
-Recent PhD graduate in Aerodynamics and Machine Learning. Proficient in deep learning, reinforcement learning, and optimization techniques, with expertise in active flow control and computational fluid dynamics (CFD). Actively seeking challenging research opportunities to solve complex engineering challenges through interdisciplinary expertise, collaboration with diverse teams, and continuous learning.
+Recent PhD graduate in Aerodynamics and Machine Learning. Proficient in deep learning, reinforcement learning, and optimization techniques, with expertise in active flow control and computational fluid dynamics (CFD). 
+Actively seeking challenging research opportunities to solve complex engineering challenges through interdisciplinary expertise, collaboration with diverse teams, and continuous learning.
