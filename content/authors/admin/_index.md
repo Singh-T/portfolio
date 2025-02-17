@@ -88,41 +88,52 @@ work:
   - position: Doctoral student
     company_name: Institut Pprime - CNRS
     company_url: ''
-    company_logo: 'Logo_CNRS.png'
+    company_logo: 'Logo_PPRIME.png'
     date_start: 2020-12-01
     date_end: '2024-12-31'
     summary: |2-
-      - Thesis: "Active flow conntrol using neuroevolution guided deep reinforcement learning".
+      - Thesis: "Active flow control using neuroevolution guided deep reinforcement learning".
       - PhD advisor: Dr Laurent Cordier, Research Director (CNRS)
       - Conference and workshop presentations:
         - {{< math >}}$1^{st}${{< /math >}} ERCOFTAC workshop on Machine Learning for Fluid Dynamics (ML4Fluids). Sorbonne University, Paris (03/2024).
+        - {{< math >}}$3^{rd}${{< /math >}} international workshop on Artificial Intelligence and Augmented Engineering (AIAE’23). Pascal institute, University of Paris-Saclay (12/2023).
+        - {{< math >}}$14^{th}${{< /math >}} ERCOFTAC symposium on Engineering, Turbulence Modelling and Measurements (ETMM14). Barcelona, Spain (09/2023).
+
 
   - position: Systems Engineer
     company_name: IBM
     company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    company_logo: 'Logo_IBM.png'
+    date_start: 2017-10-01
+    date_end: 2018-08-30
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Optimized and implemented workflows for master data creation, maintenance, and approval for improved process efficiency.
   
   - position: Associate Systems Engineer
     company_name: IBM
     company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    company_logo: 'Logo_IBM'
+    date_start: 2016-07-01
+    date_end: 2017-09-30
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Functional consultant (SAP) within the master data management team of Arkema chemicals, France. 
+      - Collaborated with cross-functional teams to implement solutions for the client.
+
+  - position: Research Intern
+    company_name: Aerial Delivery Research and Development Laboratory, DRDO (Govt. of India)
+    company_url: ''
+    company_logo: ''
+    date_start: 2015-05-01
+    date_end: 2015-08-30
+    summary: |
+      Study and experiment on the effect of varying fabric porosity on aerodynamic characteristics of a parachute.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
+# Numerical simulation/analysis, Deep learning, Reinforcement learning Python, Tecplot, ANSYS-Fluent, Pointwise
+# OpenFOAM, MATLAB, C++, PyTorch, STAR-CCM+, Tensorflow
 skills:
   - name: Technical Skills
     items:
@@ -198,4 +209,5 @@ awards:
 ## About Me
 
 Recent PhD graduate in Aerodynamics and Machine Learning. Proficient in deep learning, reinforcement learning, and optimization techniques, with expertise in active flow control and computational fluid dynamics (CFD). 
+
 Actively seeking challenging research opportunities to solve complex engineering challenges through interdisciplinary expertise, collaboration with diverse teams, and continuous learning.
