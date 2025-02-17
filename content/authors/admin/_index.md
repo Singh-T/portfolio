@@ -58,7 +58,7 @@ education:
     date_start: 2020-12-01
     date_end: 2024-12-31
     summary: |
-      Thesis title: "Active flow control using neuroevolution guided deep reinforcement learning. Supervised by [Dr Laurent Cordier](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis title: "Active flow control using neuroevolution guided deep reinforcement learning". Supervised by [Dr Laurent Cordier](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -107,7 +107,7 @@ work:
   - position: Systems Engineer
     company_name: IBM
     company_url: ''
-    company_logo: 'uploads/Logo_IBM.png'
+    company_logo: 'logo_ibm'
     date_start: 2017-10-01
     date_end: 2018-08-30
     summary: |
@@ -117,7 +117,7 @@ work:
   - position: Associate Systems Engineer
     company_name: IBM
     company_url: ''
-    company_logo: 'uploads/Logo_IBM.png'
+    company_logo: 'logo_ibm'
     date_start: 2016-07-01
     date_end: 2017-09-30
     summary: |
