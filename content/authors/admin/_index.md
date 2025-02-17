@@ -69,10 +69,12 @@ education:
     summary: |
       GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Taught Modules:
+      - Introduction to Fluid mechanics and Heat transfer, Grid generation / CAD, Numerical methods and High-Performance Computing, Numerical modelling for Incompressible / Compressible flows, Turbulence Modelling, CFD for Aerospace applications and Rotating wings, CFD for Fluid-Structure Interaction, Data analysis and uncertainty, Role of experimental data in CFD.
+      
+      Clubs / Societies:
+      - Cranfield CFD Forum, Cranfield Photography club
+
   - area: BTech Aerospace Engineering
     institution: University of Petroleum & Energy Studies, India
     date_start: 2016-01-01
@@ -80,15 +82,17 @@ education:
     summary: |
       GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Taught Modules:
+      - Aerodynamics, Propulsion, Fluid mechanics, Introduction to Computational Fluid Dynamics, Aircraft design, Aircraft structures, Vibrational Analysis, Thermodynamics, Heat transfer, Flight mechanics, Spacecraft Dynamics and attitude control, Orbital mechanics.
+
+      Clubs / Societies:
+      - Graphic designer and Treasurer for the American Society of Mechanical Engineers (ASME) collegiate society.
+
 work:
   - position: Doctoral student
     company_name: Institut Pprime - CNRS
     company_url: ''
-    company_logo: 'Logo_PPRIME.png'
+    company_logo: 'uploads/Logo_PPRIME.png'
     date_start: 2020-12-01
     date_end: '2024-12-31'
     summary: |2-
@@ -103,7 +107,7 @@ work:
   - position: Systems Engineer
     company_name: IBM
     company_url: ''
-    company_logo: 'Logo_IBM.png'
+    company_logo: 'uploads/Logo_IBM.png'
     date_start: 2017-10-01
     date_end: 2018-08-30
     summary: |
@@ -113,7 +117,7 @@ work:
   - position: Associate Systems Engineer
     company_name: IBM
     company_url: ''
-    company_logo: 'Logo_IBM'
+    company_logo: 'uploads/Logo_IBM.png'
     date_start: 2016-07-01
     date_end: 2017-09-30
     summary: |
