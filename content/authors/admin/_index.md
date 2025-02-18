@@ -76,8 +76,8 @@ education:
       - Cranfield CFD Forum, Cranfield Photography club.
 
       {{< youtube WAlPvHMmk28 >}}
-
-# -- {{< video src="FFS_slope.mp4" controls="true" autoplay="false" loop="true" >}} -- !>
+      
+      {{< video src="FFS_slope.mp4" controls="true" autoplay="false" loop="true" >}}
 
 
 
@@ -145,33 +145,53 @@ work:
 # Numerical simulation/analysis, Deep learning, Reinforcement learning Python, Tecplot, ANSYS-Fluent, Pointwise
 # OpenFOAM, MATLAB, C++, PyTorch, STAR-CCM+, Tensorflow
 skills:
-  - name: Technical Skills
+  - name: Programming 
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 75
         icon: code-bracket
-      - name: Data Science
+      - name: Bash scripting
         description: ''
-        percent: 100
+        percent: 75
         icon: chart-bar
-      - name: SQL
+      - name: C++
+        description: ''
+        percent: 60
+        icon: circle-stack
+      - name: MPI for HPC
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
+  - name: Software
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Tecplot
+        description: ''
+        percent: 90
+        icon: person-simple-walk
+      - name: ANSYS-Fluent
+        description: ''
+        percent: 80
+        icon: cat
+      - name: Pointwise
+        description: ''
+        percent: 80
+        icon: camera
+  - name: 
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Numerical simulation/analysis
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Graaphic design
+      - name: Deep Learning
         description: ''
-        percent: 100
+        percent: 80
         icon: cat
-      - name: Photography
+      - name: Reinforcement Learning 
         description: ''
         percent: 80
         icon: camera
