@@ -75,7 +75,7 @@ education:
       Clubs / Societies:
       - Cranfield CFD Forum, Cranfield Photography club.
 
-      {{< video src="FFS_slope.mp4" controls="true" autoplay="false" loop="false" >}}
+      {{< video src="FFS_slope.mp4" controls="true" autoplay="false" loop="true" >}}
 
 
   - area: BTech Aerospace Engineering
