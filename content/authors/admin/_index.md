@@ -73,7 +73,9 @@ education:
       - Introduction to Fluid mechanics and Heat transfer, Grid generation / CAD, Numerical methods and High-Performance Computing, Numerical modelling for Incompressible / Compressible flows, Turbulence Modelling, CFD for Aerospace applications and Rotating wings, CFD for Fluid-Structure Interaction, Data analysis and uncertainty, Role of experimental data in CFD.
       
       Clubs / Societies:
-      - Cranfield CFD Forum, Cranfield Photography club
+      - Cranfield CFD Forum, Cranfield Photography club.
+
+      ![screen reader text](Portfolio_1.png "caption")
 
   - area: BTech Aerospace Engineering
     institution: University of Petroleum & Energy Studies, India
