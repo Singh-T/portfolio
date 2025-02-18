@@ -75,7 +75,8 @@ education:
       Clubs / Societies:
       - Cranfield CFD Forum, Cranfield Photography club.
 
-      {{< video src="FFS_slope.mp4" >}}
+      {{< video src="FFS_slope.mp4" controls="true" autoplay="false" loop="false" >}}
+
 
   - area: BTech Aerospace Engineering
     institution: University of Petroleum & Energy Studies, India
