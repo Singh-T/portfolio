@@ -198,11 +198,11 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 98
   - name: Hindi
-    percent: 100
+    percent: 98
   - name: French
-    percent: 25
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
