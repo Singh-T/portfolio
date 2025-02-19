@@ -151,7 +151,7 @@ skills:
     items:
       - name: Numerical simulation/analysis
         description: ''
-        percent: 60
+        percent: 90
         icon: person-simple-walk
       - name: Deep Learning
         description: ''
