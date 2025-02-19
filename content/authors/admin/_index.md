@@ -77,7 +77,7 @@ education:
 
       {{< youtube WAlPvHMmk28 >}}
       
-      {{< video src="FFS_slope.mp4" controls="true" autoplay="false" loop="true" >}}
+  #{{< video src="FFS_slope.mp4" controls="true" autoplay="false" loop="true" >}}
 
 
 
@@ -144,7 +144,23 @@ work:
 # Add your own SVG icons to `assets/media/icons/`
 # Numerical simulation/analysis, Deep learning, Reinforcement learning Python, Tecplot, ANSYS-Fluent, Pointwise
 # OpenFOAM, MATLAB, C++, PyTorch, STAR-CCM+, Tensorflow
-skills:
+skills: 
+  - name: Skills
+    color: '#eeac05'
+    color_border: '#f0bf23'
+    items:
+      - name: Numerical simulation/analysis
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Deep Learning
+        description: ''
+        percent: 80
+        icon: cat
+      - name: Reinforcement Learning 
+        description: ''
+        percent: 80
+        icon: camera
   - name: Programming 
     items:
       - name: Python
@@ -176,22 +192,6 @@ skills:
         percent: 80
         icon: cat
       - name: Pointwise
-        description: ''
-        percent: 80
-        icon: camera
-  - name: 
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Numerical simulation/analysis
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Deep Learning
-        description: ''
-        percent: 80
-        icon: cat
-      - name: Reinforcement Learning 
         description: ''
         percent: 80
         icon: camera
