@@ -74,8 +74,6 @@ education:
       
       Clubs / Societies:
       - Cranfield CFD Forum, Cranfield Photography club.
-
-      {{< youtube WAlPvHMmk28 >}}
       
   #{{< video src="FFS_slope.mp4" controls="true" autoplay="false" loop="true" >}}
 
