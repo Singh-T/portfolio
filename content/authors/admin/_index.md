@@ -58,9 +58,9 @@ education:
     date_start: 2020-12-01
     date_end: 2024-12-31
     summary: |
-      Thesis title: "Active flow control using neuroevolution guided deep reinforcement learning". Supervised by [Dr Laurent Cordier](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis title: "Active flow control using neuroevolution guided deep reinforcement learning". Supervised by [Dr Laurent Cordier](https://scholar.google.fr/citations?user=gBmB6loAAAAJ&hl=en), Prof [Ronan Fablet](https://scholar.google.fr/citations?user=0donG7gAAAAJ&hl=en).
     button:
-      text: 'Read Thesis'
+      text: 'Read Thesis (coming soon)'
       url: 'https://example.com'
   - area: MSc Computational Fluid Dynamics
     institution: Cranfield University, England
